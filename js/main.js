@@ -1,9 +1,9 @@
 const education = [
     {
-        degree:`Bachelor of Engineering (B.Eng. in Digital Engineering)`,
-        school: `<a href="https://www.siit.tu.ac.th/">Sirindhorn International Institute of Technology (SIIT), Thammasat University.</a>`,
-        year: `2019 - Present (Expected Graduation: 2023)`,
-        gpa: `3.94/4.00`,
+        degree:`Bachelor of Engineering (B.Eng.), Digital Engineering (DE)`,
+        school: `<a href="https://www.siit.tu.ac.th/">Sirindhorn International Institute of Technology (SIIT), Thammasat University</a>`,
+        year: `2019 - Present (Expected Graduate: 2023)`,
+        gpa: `2.82/4.00`,
         detail: `- Specialized in Application software development. <br/>
         - 4-year continuous full scholarship recipient <br/>
         - Achived first rank in academic year 2020.`,
