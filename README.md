@@ -1,3 +1,3 @@
-# waterthatfrozen.github.io
+# thanyachanokr.github.io
 GitHub Pages \\
-Paphana Yiwsiw (@waterthatfrozen) \\
+Thanyachanok Rachavongsuk (@thanyachanokr) \\
