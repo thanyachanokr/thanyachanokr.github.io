@@ -4,16 +4,14 @@ const education = [
         school: `<a href="https://www.siit.tu.ac.th/">Sirindhorn International Institute of Technology (SIIT), Thammasat University</a>`,
         year: `2019 - Present (Expected Graduate: 2023)`,
         gpa: `2.82/4.00`,
-        detail: `- Minor in Application Software Development. <br/>
-        - 4-year continuous full scholarship recipient <br/>
-        - Achived first rank in academic year 2020.`,
+        detail: `- Minor in Application Software Development. <br/>`,
         link: null
     },{
         degree:`High School`,
         school: `Suankularb Wittalai Rangsit School`,
         year: `2016 - 2019`,
-        gpa: `3.71/4.00`,
-        detail: `Science and Mathematics Program`,
+        gpa: `3.47/4.00`,
+        detail: `Science Classroom in University Affiliated School Project (SCiUS)`,
         link: null
     }
 ];
