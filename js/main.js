@@ -12,7 +12,7 @@ const education = [
         year: `2016 - 2019`,
         gpa: `3.47/4.00`,
         detail: `Science Classroom in University Affiliated School Project (SCiUS)`,
-        link: null
+        link: `<a href="http://scius-tu.com/" target="_blank" class="text-decoration-none"><i class="bi bi-web"></i> SCiUS Program</a>`
     }
 ];
 
