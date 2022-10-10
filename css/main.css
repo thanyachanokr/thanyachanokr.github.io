@@ -3,7 +3,8 @@ html {
 }
 
 body {
-    font-family: 'Manrope', 'Noto Sans Thai', 'JetBrains Mono', monospace, sans-serif;
+    font-family: 'Prompt' monospace, sans-serif;
+    /* font-family: 'Manrope', 'Noto Sans Thai', 'JetBrains Mono', monospace, sans-serif; */
     height: 100%;
     margin-bottom: 30px;
     line-height: normal;
