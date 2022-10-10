@@ -207,7 +207,7 @@ window.onresize = () => {
 let currentTime = new Date();
 const timeSpan = document.getElementById("time");
 const copyrightSpan = document.getElementById("copyright");
-copyrightSpan.innerHTML = `&copy; ${currentTime.getFullYear()} Paphana Yiwsiw`;
+copyrightSpan.innerHTML = `&copy; ${currentTime.getFullYear()} Thanyachanok Rachavongsuk`;
 setInterval(() => {
     currentTime = new Date();
     timeSpan.innerHTML = `${currentTime.toLocaleString("en-UK",{timeZone: "Asia/Bangkok", hour12: false})}`;
